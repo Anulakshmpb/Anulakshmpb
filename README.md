@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anulakshmpb" alt="anulakshmpb" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- Full Stack Developer | React • Node.js • MongoDB • Firebase | Building scalable web applications, ERP systems, e-commerce platforms, and cloud-based solutions.
 
 - 💬 Ask me about **react , js , html ,bootstrap**
 
