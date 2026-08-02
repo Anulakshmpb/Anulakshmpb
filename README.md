@@ -8,9 +8,9 @@
 
 <!-- ===== Status badges (animated gradient pills) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E5395,100:6DD5FA&height=36&width=105&text=%F0%9F%91%81%EF%B8%8F%20121%2B&fontSize=16&fontColor=FFFFFF"/>
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E7B34,100:4ADE80&height=36&width=120&text=%F0%9F%9F%A2%20Open&fontSize=16&fontColor=FFFFFF"/>
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B8860B,100:F5B942&height=36&width=115&text=%F0%9F%93%8D%20India&fontSize=16&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E5395,100:6DD5FA&height=34&width=90&text=%F0%9F%91%81%EF%B8%8F12%2B&fontSize=14&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E7B34,100:4ADE80&height=34&width=100&text=%F0%9F%9F%A2Open&fontSize=14&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B8860B,100:F5B942&height=34&width=100&text=%F0%9F%93%8DIndia&fontSize=14&fontColor=FFFFFF"/>
 </p>
 
 </div>
