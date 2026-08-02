@@ -42,7 +42,7 @@ Full Stack Developer with **1+ years** building systems that businesses actually
 
 <td width="40%" align="center">
 
-<img src="https://github.com/Anulakshmpb/Anulakshmpb/blob/main/about.png" width="320"/>
+<img src="https://github.com/Anulakshmpb/Anulakshmpb/blob/main/about.png" width="420" height='400'/>
 
 </td>
 
