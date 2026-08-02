@@ -8,11 +8,11 @@
 
 <!-- ===== Status badges (animated gradient pills) ===== -->
 <p align="center">
-<img src="https://img.shields.io/badge/PROFILE%20VIEWS-121+-2E5395?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1F3864" alt="Profile Views" height="35"/>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-1E7B34?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=14532D" alt="Open to Work" height="35"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LOCATION-INDIA-B8860B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=7A5C00" alt="Based in India" height="35"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E5395,100:6DD5FA&height=50&width=280&text=%F0%9F%91%81%EF%B8%8F%20121%2B%20Profile%20Views&fontSize=16&fontColor=FFFFFF&fontAlignY=63&animation=fadeIn" alt="Profile Views"/>
+&nbsp;&nbsp;
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E7B34,100:4ADE80&height=50&width=250&text=%F0%9F%9F%A2%20Open%20to%20Work&fontSize=16&fontColor=FFFFFF&fontAlignY=63&animation=fadeIn" alt="Open to Work"/>
+&nbsp;&nbsp;
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B8860B,100:F5B942&height=50&width=250&text=%F0%9F%93%8D%20Based%20in%20India&fontSize=16&fontColor=FFFFFF&fontAlignY=63&animation=fadeIn" alt="Based in India"/>
 </p>
 
 </div>
