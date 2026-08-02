@@ -21,6 +21,7 @@
 <img
   align="right"
   width="420"
+  height ="500"
   src="https://github.com/Anulakshmpb/Anulakshmpb/blob/main/about.png"
   alt="About Me"
 />
