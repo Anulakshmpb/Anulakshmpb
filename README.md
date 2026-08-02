@@ -18,18 +18,18 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<div align="center">
-
-<table border="0">
-<tr>
-
-<td width="60%" valign="top">
+<img
+  align="right"
+  width="420"
+  src="https://github.com/Anulakshmpb/Anulakshmpb/blob/main/about.png"
+  alt="About Me"
+/>
 
 ### 👋 Hi, I'm Anulakshmi
 
 Full Stack Developer with **1+ years** building systems that businesses actually use — **ERP platforms, real-time dashboards, payment systems, and scalable web applications**, not just demo projects.
 
-✨ **Highlights**
+### ✨ Highlights
 
 - 💼 Built **10+ production & academic projects**
 - ⚛️ Specialized in **React.js, Node.js, Express.js & MongoDB**
@@ -38,16 +38,7 @@ Full Stack Developer with **1+ years** building systems that businesses actually
 - 🤖 Exploring **AI, Automation & Intelligent Web Applications**
 - 🌍 Open to **Software Engineer | Full Stack | MERN** roles across **India & Gulf Countries**
 
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://github.com/Anulakshmpb/Anulakshmpb/blob/main/about.png" width="420" height='400'/>
-
-</td>
-
-</tr>
-</table>
+<br clear="right"/>
 
 </div>
 
