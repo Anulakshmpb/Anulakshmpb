@@ -10,13 +10,15 @@
 <table align="center" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td>
-      <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E5395,100:6DD5FA&height=70&width=115&text=%F0%9F%91%81%EF%B8%8F%20121%2B%20Views&fontSize=24&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" alt="Profile Views"/>
+      <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E5395,100:6DD5FA&height=70&width=140&text=%F0%9F%91%81%EF%B8%8F%20121%2B&fontSize=40&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" alt="Profile Views"/>
     </td>
+
     <td>
-      <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E7B34,100:4ADE80&height=70&width=110&text=%F0%9F%9F%A2%20Open%20to%20Work&fontSize=24&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" alt="Open to Work"/>
+      <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E7B34,100:4ADE80&height=70&width=140&text=%F0%9F%9F%A2%20Open&fontSize=40&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" alt="Open to Work"/>
     </td>
+
     <td>
-      <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B8860B,100:F5B942&height=70&width=110&text=%F0%9F%93%8D%20India&fontSize=24&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" alt="Location"/>
+      <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B8860B,100:F5B942&height=70&width=140&text=%F0%9F%93%8D%20India&fontSize=40&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" alt="Location"/>
     </td>
   </tr>
 </table>
