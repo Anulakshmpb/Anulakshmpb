@@ -8,11 +8,10 @@
 
 <!-- ===== Status badges (animated gradient pills) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E5395,100:6DD5FA&height=34&width=90&text=%F0%9F%91%81%EF%B8%8F12%2B&fontSize=14&fontColor=FFFFFF"/>
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E7B34,100:4ADE80&height=34&width=100&text=%F0%9F%9F%A2Open&fontSize=14&fontColor=FFFFFF"/>
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B8860B,100:F5B942&height=34&width=100&text=%F0%9F%93%8DIndia&fontSize=14&fontColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/👁️-121%2B%20Views-2E5395?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🟢-Open%20to%20Work-1E7B34?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📍-India%20•%20Gulf-B8860B?style=for-the-badge"/>
 </p>
-
 </div>
 
 <br/>
