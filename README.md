@@ -7,21 +7,13 @@
 <br/>
 
 <!-- ===== Status badges (animated gradient pills) ===== -->
-<table align="center" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td>
-      <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E5395,100:6DD5FA&height=70&width=140&text=%F0%9F%91%81%EF%B8%8F%20121%2B&fontSize=40&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" alt="Profile Views"/>
-    </td>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E5395,100:6DD5FA&height=60&width=170&text=%F0%9F%91%81%EF%B8%8F%20121%2B%20Views&fontSize=28&fontColor=FFFFFF&animation=fadeIn" alt="Profile Views"/>
 
-    <td>
-      <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E7B34,100:4ADE80&height=70&width=140&text=%F0%9F%9F%A2%20Open&fontSize=40&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" alt="Open to Work"/>
-    </td>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E7B34,100:4ADE80&height=60&width=180&text=%F0%9F%9F%A2%20Open%20to%20Work&fontSize=28&fontColor=FFFFFF&animation=fadeIn" alt="Open to Work"/>
 
-    <td>
-      <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B8860B,100:F5B942&height=70&width=140&text=%F0%9F%93%8D%20India&fontSize=40&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" alt="Location"/>
-    </td>
-  </tr>
-</table>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B8860B,100:F5B942&height=60&width=170&text=%F0%9F%93%8D%20India%20%E2%80%A2%20Gulf&fontSize=28&fontColor=FFFFFF&animation=fadeIn" alt="Location"/>
+</p>
 
 </div>
 
