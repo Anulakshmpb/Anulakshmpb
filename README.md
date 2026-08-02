@@ -10,13 +10,13 @@
 <table align="center">
 <tr>
 <td>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E5395,100:6DD5FA&height=50&width=280&text=%F0%9F%91%81%EF%B8%8F%20121%2B%20Profile%20Views&fontSize=16&fontColor=FFFFFF&fontAlignY=63&animation=fadeIn" alt="Profile Views"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E5395,100:6DD5FA&height=70&width=230&text=%F0%9F%91%81%EF%B8%8F%20121%2B%20Views&fontSize=20&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" alt="Profile Views"/>
 </td>
 <td>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E7B34,100:4ADE80&height=50&width=250&text=%F0%9F%9F%A2%20Open%20to%20Work&fontSize=16&fontColor=FFFFFF&fontAlignY=63&animation=fadeIn" alt="Open to Work"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E7B34,100:4ADE80&height=70&width=210&text=%F0%9F%9F%A2%20Open%20to%20Work&fontSize=20&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" alt="Open to Work"/>
 </td>
 <td>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B8860B,100:F5B942&height=50&width=250&text=%F0%9F%93%8D%20Based%20in%20India&fontSize=16&fontColor=FFFFFF&fontAlignY=63&animation=fadeIn" alt="Based in India"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B8860B,100:F5B942&height=70&width=210&text=%F0%9F%93%8D%20India%20%7C%20Gulf&fontSize=20&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" alt="Based in India"/>
 </td>
 </tr>
 </table>
