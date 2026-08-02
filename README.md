@@ -8,11 +8,11 @@
 
 <!-- ===== Status badges (animated gradient pills) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E5395,100:6DD5FA&height=60&width=170&text=%F0%9F%91%81%EF%B8%8F%20121%2B%20Views&fontSize=28&fontColor=FFFFFF&animation=fadeIn" alt="Profile Views"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E5395,100:6DD5FA&height=42&width=130&text=%F0%9F%91%81%EF%B8%8F%20121%2B%20Views&fontSize=18&fontColor=FFFFFF" alt="Profile Views"/>&nbsp;
 
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E7B34,100:4ADE80&height=60&width=180&text=%F0%9F%9F%A2%20Open%20to%20Work&fontSize=28&fontColor=FFFFFF&animation=fadeIn" alt="Open to Work"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E7B34,100:4ADE80&height=42&width=145&text=%F0%9F%9F%A2%20Open%20to%20Work&fontSize=18&fontColor=FFFFFF" alt="Open to Work"/>&nbsp;
 
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B8860B,100:F5B942&height=60&width=170&text=%F0%9F%93%8D%20India%20%E2%80%A2%20Gulf&fontSize=28&fontColor=FFFFFF&animation=fadeIn" alt="Location"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B8860B,100:F5B942&height=42&width=135&text=%F0%9F%93%8D%20India%20%E2%80%A2%20Gulf&fontSize=18&fontColor=FFFFFF" alt="Location"/>
 </p>
 
 </div>
