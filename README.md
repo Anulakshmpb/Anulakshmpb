@@ -257,7 +257,7 @@ My personal site showcasing projects, resume, and case studies in one place.
 <div align="center">
 
 <!-- Animated snake eating the contribution graph — requires a one-time GitHub Action setup, see note below -->
-<img src="https://raw.githubusercontent.com/Anulakshmpb/Anulakshmpb/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/Anulakshmpb/Anulakshmpb/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
