@@ -9,14 +9,14 @@
 <!-- ===== Status badges (animated gradient pills) ===== -->
 <table align="center">
 <tr>
-<td align="center" style="padding: 0 8px;">
-<img src="https://img.shields.io/badge/👁️_PROFILE_VIEWS-121+-0D1117?style=for-the-badge&labelColor=2E5395" alt="Profile Views" height="42"/>
+<td align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6366F1,100:8B5CF6&height=48&width=260&text=👁️%20121%2B%20Views&fontSize=15&fontColor=FFFFFF&fontAlignY=64&animation=twinkling" alt="Profile Views"/>
 </td>
-<td align="center" style="padding: 0 8px;">
-<img src="https://img.shields.io/badge/🟢_STATUS-OPEN_TO_WORK-0D1117?style=for-the-badge&labelColor=1E7B34" alt="Open to Work" height="42"/>
+<td align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:10B981,100:34D399&height=48&width=230&text=🟢%20Open%20to%20Work&fontSize=15&fontColor=FFFFFF&fontAlignY=64&animation=twinkling" alt="Open to Work"/>
 </td>
-<td align="center" style="padding: 0 8px;">
-<img src="https://img.shields.io/badge/📍_LOCATION-INDIA-0D1117?style=for-the-badge&labelColor=B8860B" alt="Based in India" height="42"/>
+<td align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:F59E0B,100:FBBF24&height=48&width=230&text=📍%20India%20%7C%20Gulf&fontSize=15&fontColor=FFFFFF&fontAlignY=64&animation=twinkling" alt="Location"/>
 </td>
 </tr>
 </table>
