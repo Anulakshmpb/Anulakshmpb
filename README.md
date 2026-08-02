@@ -16,29 +16,40 @@
 
 <br/>
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-<table>
+<div align="center">
+
+<table border="0">
 <tr>
-<td width="30%" valign="middle" align="center">
-<img src="https://raw.githubusercontent.com/OhanaFx/OhanaFx/main/img/coding.gif" width="230" alt="Developer illustration"/>
+
+<td width="60%" valign="top">
+
+### 👋 Hi, I'm Anulakshmi
+
+Full Stack Developer with **1+ years** building systems that businesses actually use — **ERP platforms, real-time dashboards, payment systems, and scalable web applications**, not just demo projects.
+
+✨ **Highlights**
+
+- 💼 Built **10+ production & academic projects**
+- ⚛️ Specialized in **React.js, Node.js, Express.js & MongoDB**
+- 🔥 Experienced with **Firebase, AWS, Tailwind CSS & REST APIs**
+- 🔐 Passionate about secure authentication and scalable backend architecture
+- 🤖 Exploring **AI, Automation & Intelligent Web Applications**
+- 🌍 Open to **Software Engineer | Full Stack | MERN** roles across **India & Gulf Countries**
+
 </td>
-<td width="10%"></td>
-<td width="60%" valign="middle">
 
-Full Stack Developer with **1+ years** building the systems companies actually run on — **ERP platforms, live dashboards, and payment infrastructure**, not demo apps.
+<td width="40%" align="center">
 
-🏗️ Shipped **10+ production and academic systems** across client and internal projects while working concurrently across two engineering roles.
-
-🔐 What I care about technically: authentication that's actually secure, APIs that hold up past the demo stage, and UIs that stay fast once real data hits them.
-
-🤖 Currently exploring how **AI and automation** can cut manual work out of internal tooling.
-
-🌍 Open to **Full Stack / MERN / React / Node.js** roles across **India, UAE, Saudi Arabia, Qatar, Oman, Kuwait & Bahrain**.
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/about-me.png" width="320"/>
 
 </td>
+
 </tr>
 </table>
+
+</div>
 
 <br/>
 
