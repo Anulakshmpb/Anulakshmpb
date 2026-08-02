@@ -44,48 +44,118 @@ Full Stack Developer with **1+ years** building systems that businesses actually
 </div>
 
 <br/>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<th>Frontend</th>
-<th>Backend</th>
-<th>Database & Auth</th>
-<th>Tools & Cloud</th>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="45" title="React.js"/><br/>
-<img src="https://skillicons.dev/icons?i=redux" width="45" title="Redux Toolkit"/><br/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="45" title="Tailwind CSS"/><br/>
-<img src="https://skillicons.dev/icons?i=materialui" width="45" title="Material UI"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js"/><br/>
-<img src="https://skillicons.dev/icons?i=express" width="45" title="Express.js"/><br/>
-<img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript"/><br/>
-<img src="https://skillicons.dev/icons?i=html,css" width="45" title="HTML / CSS"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="45" title="MongoDB"/><br/>
-<img src="https://skillicons.dev/icons?i=firebase" width="45" title="Firebase / Firestore"/><br/>
-<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens" alt="JWT" height="26"/><br/>
-<img src="https://img.shields.io/badge/RBAC-black?style=flat-square" alt="RBAC" height="26"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git,github" width="45" title="Git / GitHub"/><br/>
-<img src="https://skillicons.dev/icons?i=postman" width="45" title="Postman"/><br/>
-<img src="https://skillicons.dev/icons?i=figma" width="45" title="Figma"/><br/>
-<img src="https://skillicons.dev/icons?i=py" width="45" title="Python"/>
-</td>
-</tr>
-</table>
+### 🎨 Frontend Development
 
-<sub>Icons render with a native subtle hover-scale effect on the live GitHub page (built into skillicons.dev)</sub>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,materialui,html,css,js,bootstrap&perline=8" />
 
+<br/><br/>
+
+<p>
+⚡ Building responsive, scalable interfaces with modern component architectures
+</p>
+
+---
+
+### ⚙️ Backend & API Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,js,ts&perline=8" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Development-0A66C2?style=for-the-badge"/>
+
+<br/><br/>
+
+<p>
+🚀 Designing secure APIs, real-time systems and scalable backend services
+</p>
+
+---
+
+### 🗄️ Database & Authentication
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres&perline=8" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/JWT_Authentication-black?style=for-the-badge&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/OAuth-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RBAC-black?style=for-the-badge"/>
+
+<br/><br/>
+
+<p>
+🔐 Implementing authentication systems, authorization and secure data handling
+</p>
+
+
+---
+
+### ☁️ Cloud & Deployment
+
+<img src="https://skillicons.dev/icons?i=aws,azure,firebase,docker,git,github&perline=8" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Amazon_EC2-orange?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Amazon_S3-orange?style=for-the-badge&logo=amazons3"/>
+<img src="https://img.shields.io/badge/Firebase_Cloud_Functions-yellow?style=for-the-badge&logo=firebase"/>
+
+<br/><br/>
+
+<p>
+☁️ Deploying production applications with cloud infrastructure and CI workflows
+</p>
+
+
+---
+
+### 🔒 Security & Engineering Practices
+
+<div>
+
+<img src="https://img.shields.io/badge/Helmet.js-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Rate_Limiting-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bcrypt-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SDLC-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-purple?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<p>
+🏗️ Focused on scalable architecture, secure applications and clean engineering practices
+</p>
+
+
+---
+
+### 🔌 Integrations & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,python,c&perline=8" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Stripe-purple?style=for-the-badge&logo=stripe"/>
+<img src="https://img.shields.io/badge/Razorpay-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Twilio-red?style=for-the-badge&logo=twilio"/>
+<img src="https://img.shields.io/badge/Google_Maps_API-green?style=for-the-badge"/>
+
+<br/><br/>
+
+<p>
+🔗 Integrating payments, messaging, maps and third-party services
+</p>
+
+
+</div>
 </div>
 
 <br/>
@@ -156,8 +226,6 @@ My personal site showcasing projects, resume, and case studies in one place.
 `React` `Tailwind CSS` `Framer Motion`
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anulakshmpb/Portfolio)
-[![Live](https://img.shields.io/badge/Live%20Site-2E5395?style=flat-square&logo=googlechrome&logoColor=white)](#)
-
 </td>
 </tr>
 </table>
@@ -168,11 +236,8 @@ My personal site showcasing projects, resume, and case studies in one place.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=anulakshmpb&show_icons=true&count_private=true&hide_border=true&bg_color=1A1A1A&title_color=FF512F&icon_color=FDC830&text_color=FFFFFF&border_radius=14" alt="GitHub Stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anulakshmpb&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=FF512F&text_color=FFFFFF&border_radius=14&langs_count=8" alt="Top Languages"/>
 
 <br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anulakshmpb&hide_border=true&background=1A1A1A&ring=FF512F&fire=FDC830&currStreakLabel=FDC830&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999&border_radius=14" alt="GitHub Streak"/>
 
 </div>
@@ -182,12 +247,10 @@ My personal site showcasing projects, resume, and case studies in one place.
 ## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anulakshmpb&theme=onedark&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=4&row=2" alt="GitHub Trophies"/>
+
+<img src="https://github-profile-trophy-git-master-yusukebe.vercel.app/?username=anulakshmpb&theme=algolia&no-frame=true&column=4&row=2" />
+
 </div>
-
-<sub>If trophies don't render below, GitHub's trophy cache can take a few hours after a profile update — refresh the page or wait; the badge above uses a solid-background theme so icons stay visible regardless of light/dark mode.</sub>
-
-<br/><br/>
 
 ## 🐍 Contribution Activity
 
@@ -197,8 +260,6 @@ My personal site showcasing projects, resume, and case studies in one place.
 <img src="https://raw.githubusercontent.com/Anulakshmpb/Anulakshmpb/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 
 </div>
-
-> **Setup note:** the animated snake above needs a small one-time GitHub Action (free, official, from `Platane/snk`). The workflow file is provided separately below — add it once and the animation updates automatically every day.
 
 <br/>
 
