@@ -7,20 +7,13 @@
 <br/>
 
 <!-- ===== Status badges (animated gradient pills) ===== -->
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=48&width=260&text=👁️%20121%2B%20Views&fontSize=15&fontColor=FFFFFF&fontAlignY=64&animation=blink&reversal=false" alt="Profile Views"/>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/lightbulb.gif" width="24" valign="middle"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:34D399&height=48&width=220&text=Open%20to%20Work&fontSize=15&fontColor=FFFFFF&fontAlignY=64&animation=blink" alt="Open to Work"/>
-</td>
-<td align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:FBBF24&height=48&width=230&text=📍%20India%20%7C%20Gulf&fontSize=15&fontColor=FFFFFF&fontAlignY=64&animation=blink" alt="Location"/>
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E5395,100:6DD5FA&height=50&width=280&text=%F0%9F%91%81%EF%B8%8F%20121%2B%20Profile%20Views&fontSize=16&fontColor=FFFFFF&fontAlignY=63&animation=fadeIn" alt="Profile Views"/>
+&nbsp;&nbsp;
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E7B34,100:4ADE80&height=50&width=250&text=%F0%9F%9F%A2%20Open%20to%20Work&fontSize=16&fontColor=FFFFFF&fontAlignY=63&animation=fadeIn" alt="Open to Work"/>
+&nbsp;&nbsp;
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B8860B,100:F5B942&height=50&width=250&text=%F0%9F%93%8D%20Based%20in%20India&fontSize=16&fontColor=FFFFFF&fontAlignY=63&animation=fadeIn" alt="Based in India"/>
+</p>
 
 </div>
 
