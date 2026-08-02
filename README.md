@@ -7,13 +7,19 @@
 <br/>
 
 <!-- ===== Status badges (animated gradient pills) ===== -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E5395,100:6DD5FA&height=50&width=280&text=%F0%9F%91%81%EF%B8%8F%20121%2B%20Profile%20Views&fontSize=16&fontColor=FFFFFF&fontAlignY=63&animation=fadeIn" alt="Profile Views"/>
-&nbsp;&nbsp;
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E7B34,100:4ADE80&height=50&width=250&text=%F0%9F%9F%A2%20Open%20to%20Work&fontSize=16&fontColor=FFFFFF&fontAlignY=63&animation=fadeIn" alt="Open to Work"/>
-&nbsp;&nbsp;
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B8860B,100:F5B942&height=50&width=250&text=%F0%9F%93%8D%20Based%20in%20India&fontSize=16&fontColor=FFFFFF&fontAlignY=63&animation=fadeIn" alt="Based in India"/>
-</p>
+<table align="center">
+<tr>
+<td align="center" style="padding: 0 8px;">
+<img src="https://img.shields.io/badge/👁️_PROFILE_VIEWS-121+-0D1117?style=for-the-badge&labelColor=2E5395" alt="Profile Views" height="42"/>
+</td>
+<td align="center" style="padding: 0 8px;">
+<img src="https://img.shields.io/badge/🟢_STATUS-OPEN_TO_WORK-0D1117?style=for-the-badge&labelColor=1E7B34" alt="Open to Work" height="42"/>
+</td>
+<td align="center" style="padding: 0 8px;">
+<img src="https://img.shields.io/badge/📍_LOCATION-INDIA-0D1117?style=for-the-badge&labelColor=B8860B" alt="Based in India" height="42"/>
+</td>
+</tr>
+</table>
 
 </div>
 
